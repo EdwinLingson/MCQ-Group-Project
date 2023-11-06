@@ -1,0 +1,5 @@
+qn_no,correct_answer,opt_1,opt_2,opt_3,opt_4,question,set_id,topic_id
+32,3,"option 1","option 2","option 3","option 4","question test",0,3
+37,2," X=1",X=3,Y>X,x<=Y,"QXC IS EQUALS TO ?",0,4
+38,1,tunde,FRANK,EDWIN,RAMYA,"what is your name ",0,1
+40,3,math,science,SQL,java,"what Topic is this",0,5
